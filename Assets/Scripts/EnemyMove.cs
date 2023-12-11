@@ -44,7 +44,6 @@ public class EnemyMove : MonoBehaviour
         if(agent.remainingDistance <= 2f)
         {
             anim.SetBool("isAttack", true);
-            agent.speed = 0;
         }
         else
         {
