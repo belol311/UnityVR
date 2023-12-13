@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Anchor
   - player
+  - Bullet
   layers:
   - Default
   - TransparentFX
